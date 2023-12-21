@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://w7.pngwing.com/pngs/725/707/png-transparent-snapdeal-hd-logo.png">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Snapdeal_new_official_logo.png">
 </p>
 
 # Snapdeal Referral Program Analysis
