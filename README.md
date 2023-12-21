@@ -24,9 +24,6 @@ Welcome to the Snapdeal Referral Program Analysis repository! This repository co
 5. **Influence of Referral Bulk Notifications:**
    Determine the effectiveness of referral bulk notifications in driving user clicks and subsequent activities.
 
-## 📚 Documentation/Presentation:
-
-Dive deeper into our findings and discoveries! Explore the comprehensive documentation and presentation in the [Snapdeal Referral Program Analysis GitBook](https://your-gitbook-link-here).
 
 ## 🌟 Join the Insights!
 
