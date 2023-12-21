@@ -1,53 +1,35 @@
+<!-- Header Section -->
+<p align="center">
+  <img src="https://w7.pngwing.com/pngs/725/707/png-transparent-snapdeal-hd-logo.png">
+</p>
+
 # Snapdeal Referral Program Analysis
 
-## Overview
+Welcome to the Snapdeal Referral Program Analysis repository! This repository contains a comprehensive evaluation of the effectiveness of Snapdeal's referral program. Join us on this insightful journey to uncover key findings and propose strategies for future enhancements.
 
-As a Product Management Analyst at Snapdeal, you have been tasked with evaluating the effectiveness of the company's referral program. This initiative is crucial for driving user growth and engagement. The provided dataset encompasses comprehensive data detailing user activities and referral statistics over a series of days.
+## 🚀 Assignment Tasks:
 
-## Data Overview
+1. **Overview and Effectiveness of the Referral Program:**
+   Examine the overall performance of the referral program in generating new app installs and user engagement.
 
-The dataset, available in the provided Excel file, contains key columns, including date, referrer information, and various metrics related to user engagement and app installations. Understanding these metrics is pivotal in assessing the impact of the referral program.
+2. **App Installs Trend Analysis:**
+   Assess the trends and patterns in app installations over the observed period.
 
-### Key Columns:
+3. **User Engagement with Different Pages:**
+   Investigate how user interaction with various pages correlates with referral success.
 
-1. **dpYMD:** Date in YYYYMMDD format.
-2. **Referrer:** User who is referring the app.
-3. **SnapCash Page & Referral Page Referrer:** Count of referrals originating from SnapCash and Referral Pages.
-4. **PDP Referrer:** Number of referrals via Product Detail Pages (PDP).
-5. **Referees:** Total individuals clicking on shared referral links.
-6. **Installs:** Aggregate number of app installations.
-7. **AppLaunch Users:** Users initiating the app.
-8. **HomeView Users:** Visitors on the home page.
-9. **PdpView Users:** Users exploring product detail pages.
-10. **SnapcashPage Users:** Engagement on the SnapCash page.
-11. **ReferralPageView Users:** Audience on the referral page.
-12. **ReferralBulkNotification ClickUsers:** Users interacting with referral bulk notifications.
-13. **dayType:** Classification of days (e.g., SALE, BAU - Business as Usual).
+4. **Impact of Different Day Types on Referral Activities:**
+   Explore how special events or day types (e.g., sales events) influence referral metrics.
 
-## Questions & Key Metrics to Analyze
+5. **Influence of Referral Bulk Notifications:**
+   Determine the effectiveness of referral bulk notifications in driving user clicks and subsequent activities.
 
-### 1. Overview and Effectiveness of the Referral Program
+## 📚 Documentation/Presentation:
 
-Examine the overall performance of the referral program in generating new app installs and user engagement.
+Dive deeper into our findings and discoveries! Explore the comprehensive documentation and presentation in the [Snapdeal Referral Program Analysis GitBook](https://your-gitbook-link-here).
 
-### 2. App Installs Trend Analysis
+## 🌟 Join the Insights!
 
-Assess the trends and patterns in app installations over the observed period.
+Contribute, explore, and let your insights drive the analysis! Your ideas and interpretations might pave the way for strategic recommendations and improvements in Snapdeal's referral program.
 
-### 3. User Engagement with Different Pages
-
-Investigate how user interaction with various pages correlates with referral success.
-
-### 4. Impact of Different Day Types on Referral Activities
-
-Explore how special events or day types (e.g., sales events) influence referral metrics.
-
-### 5. Influence of Referral Bulk Notifications
-
-Determine the effectiveness of referral bulk notifications in driving user clicks and subsequent activities.
-
-## Expectations
-
-Your presentation should not only report the findings but also provide insightful interpretations and strategic recommendations based on the data. Use visualizations to illustrate trends and patterns effectively, and ensure your conclusions are data-driven and actionable. The goal is to convey key insights to the management team for informed decision-making.
-
-Feel free to modify this template according to your specific needs and findings. Good luck with your analysis!
+Let's analyze and enhance user growth and engagement together!
